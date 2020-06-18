@@ -2,7 +2,7 @@
 Written in Python. Summer 2019 Project. The program can be started on any computer with MySQL because the username and password must be typed in every time.
 
 # Software Requirements
-MySQl Community Server 8: https://dev.mysql.com/downloads/mysql/
+MySQL Community Server 8: https://dev.mysql.com/downloads/mysql/
 
 Python 3: https://www.python.org/
 
