@@ -1,4 +1,4 @@
-"""This program can create, check for invoices that have not been paid and change whether invoices have been paid or not - this file is being updated to use MySQL
+"""This program can create, check for invoices that have not been paid and change whether invoices have been paid or not
 """
 
 success = 0 # login success (0 for failure)
